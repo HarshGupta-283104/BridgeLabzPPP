@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class KmToMiles {
+    public static void main(String[] args) {
+        Scanner src = new Scanner(System.in);
+
+        System.out.print("Enter distence in kilometers: ");
+        double kilometers = src.nextDouble();
+
+        double miles = kilometers * 0.621371;
+
+        System.out.println(kilometers + " kilometers is equals to miles " + miles + " miles ");
+
+        src.close();
+    }
+}
