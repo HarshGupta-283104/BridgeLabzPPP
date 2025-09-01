@@ -1,4 +1,4 @@
-package ControlFlow;
+package Controlflow;
 
 import java.util.Scanner;
 
