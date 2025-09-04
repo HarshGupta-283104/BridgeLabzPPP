@@ -1,4 +1,29 @@
-# Object-Oriented Programming (OOP) Practice Programs
+# Object-Oriented Programming (OOP) Practice Programs 🏗️
+
+> **Branch: `OOPs`** | **Learning Level: Intermediate-Advanced** | **Prerequisites: Core-Java**
+
+## 🧭 Repository Navigation
+
+**🔗 Quick Branch Links:**
+```bash
+# View all branches
+git branch -a
+
+# Navigate to other learning modules
+git checkout main                    # 📍 Main repository overview
+git checkout Java-Fundamental        # 🔰 Java basics and fundamentals  
+git checkout Core-Java              # ⚡ Advanced Java concepts
+git checkout OOPs                  # 🏗️ Object-Oriented Programming (You are here!)
+git checkout CollectionAndGenerics   # 🗂️ Collections and generics
+```
+
+**📚 Recommended Learning Path:**
+```
+Java-Fundamental → Core-Java → OOPs (Current) → CollectionAndGenerics
+      (Basics)      (Advanced)     (OOP)         (Data Structures)
+```
+
+---
 
 This repository contains comprehensive Java programs demonstrating core OOP concepts and best practices. All programs are organized into two levels of complexity, showcasing real-world applications of object-oriented programming principles.
 
