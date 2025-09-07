@@ -138,7 +138,7 @@ class PalindromeChecker {
 }
 
 // Main class to test PalindromeChecker functionality
-public class PalindromeCheckerMain {
+public class PalindromeCheckerTest {
     public static void main(String[] args) {
         // Create PalindromeChecker objects with different text samples
         PalindromeChecker checker1 = new PalindromeChecker("racecar");
